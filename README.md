@@ -1,73 +1,79 @@
-<!-- HEADER -->
-<h1 align="center" style="color:#4da6ff;">👋 Salom, Men Muhammadjonov!</h1>
-<h3 align="center" style="color:#8cc4ff;">TATU 1-kurs talabasi • Junior Fullstack Developer</h3>
+TSTU 1st Year Student • Junior Backend Developer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Student-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Goal-Fullstack%20Developer-003366?style=for-the-badge" />
-</p>
+  
+  
+  
+  
+  
+  
+  
 
----
+* * *
 
-# 🌙 Haqimda (About Me)
+### 💻 About Me
 
-Men **TATU 1-kurs talabasiman** va hozirda **Frontend va dasturlash asoslari** bo‘yicha mustahkam bilimlar to‘plab boryapman.  
-Hozir o‘rganayotganim:
+I am a **1st-year student at TSTU (TATU)**, focusing on **Backend Engineering and Architecture**. I specialize in building scalable, secure, and efficient server-side applications, designing APIs, and structuring robust logic.
 
-- 🌐 HTML  
-- 🎨 CSS  
-- ⚡ JavaScript  
-- 🟦 C++  
+*   ⚡ **Core Focus:** Developing heavy-duty backend services and managing databases.
+*   🚀 **Philosophy:** Writing clean, type-safe, and highly maintainable code.
 
-Maqsadim — zamonaviy, kuchli, mustahkam arxitekturaga ega web ilovalar yaratadigan **Fullstack Developer** bo‘lish.
+* * *
 
----
+### 🔧 Tech Stack & Tools
 
-# 🔧 Texnologiyalarim
+### ⚙️ Backend & Architecture:
 
-### 🌐 Frontend asoslari:
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+  
+  
 
-### 🧩 Dasturlash:
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp" />
-</p>
+### 🌐 Essential Web & Frontend Basics:
 
-### 🛠 Asboblar:
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
-</p>
+  
+  
 
----
+### 🛠 Tools, IDEs & OS:
 
-# 🚀 O‘rganish Yo‘lim (Learning Path)
-- HTML/CSS — UI yaratish  
-- JavaScript — interaktivlik qo‘shish
-- NodeJS/ExpressJS Backend 
-- C++ — algoritmlar va mantiq  
-- Keyingi qadam: **React**, **Tailwind**, **NestJs**, **TypeScript** va **GitHub Pages Deploy**
+  
+  
 
----
+> *Note: Proficient in desktop core development with **C++ Windows Forms** via Visual Studio.*
 
-# 📊 GitHub Statistikam (Dark Blue Theme)
+* * *
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Muhammadjonov-spec&show_icons=true&theme=transparent&title_color=4da6ff&text_color=89b4ff&icon_color=4da6ff" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Muhammadjonov-spec&theme=blue-navy" />
-</p>
+### 🚀 My Skills & Competencies
 
----
+*   **Backend Frameworks** — Building modular REST APIs with **NestJS**, **Node.js**, and **Express.js**.
+*   **Type Safety & OOP** — Writing modern server-side architecture using **TypeScript**.
+*   **Desktop & Logic** — Developing native GUI applications with **C++ Windows Forms** and handling algorithms.
+*   **Database & Version Control** — Designing database relations, utilizing **Git**, and managing collaboration via **GitHub**.
+*   **Basic Web UI** — Understanding fundamental UI layouts with **HTML5**, **CSS3**, and **JavaScript** for smooth frontend integration.
 
-# 📫 Menga Bog‘laning
+* * *
 
-- **Email:** muhammadjonovsardorbek07@gmail.com  
-- **Telegram:** http://t.me/S_150907  
-- **LinkedIn:** https://www.linkedin.com/in/sardorbek-muhamamdjonov-860623395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+### 📊 GitHub Statistics
 
----
+  
+  
+  
 
-<p align="center" style="color:#4da6ff; font-size:18px;">
-  ⭐ Profilimga tashrif uchun rahmat! Yulduzcha qoldirishni unutmang :)
-</p>
+* * *
+
+### 📫 Connect With Me
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+* * *
+
+  
+⭐ Thank you for visiting my profile! Don't forget to leave a star :)
